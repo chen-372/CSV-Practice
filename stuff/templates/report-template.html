@@ -1,0 +1,18 @@
+<h1>Report card for: {{ student_id }}</h1>
+        
+<div class="table-container">
+    <table>
+        <tr>
+            <th>Subject</th>
+            <th>Percentage</th>
+            <th>Grade</th>
+        </tr>
+        {% for result in results %}
+        <tr>
+            <td>{{ result.subject }}</td>
+            <td>{{ result.percentage }}</td>
+            <td>{{ result.grade }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>

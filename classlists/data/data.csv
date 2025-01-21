@@ -1,0 +1,495 @@
+subject,student,percentage,grade
+Biology,1308006016,89.5,7
+Economics,1408007111,71.9,6
+Mathematical Studies,1808012319,26.3,2
+Design Technology,1708110237,61.6,5
+Mathematics,1503107007,60.1,5
+Business & Management,1508008140,47.7,4
+Theatre,1608109296,24.5,2
+Business & Management,1508008139,71.0,6
+Mathematics,1708110223,74.3,5
+Physics,1408007115,76.4,7
+Economics,1209005009,79.5,7
+Chinese A Literature,1708110227,70.1,6
+Chinese A Literature,1708110222,67.4,5
+Biology,1408106136,77.2,6
+English B,1708110230,64.4,5
+Economics,1408106142,49.9,4
+English B,1708110234,88.8,7
+Mathematics,1308106075,69.8,5
+Chinese A Literature,1708110279,69.8,5
+English B,1708110222,87.9,7
+Chinese A Literature,1408106140,66.7,5
+History,1308006019,66.6,6
+Chinese A Literature,1408106143,62.4,5
+Mathematical Studies,1508008139,38.4,3
+Chinese A Literature,1109004002,70.4,6
+Biology,1308006027,79.7,6
+Chemistry,1708010144,86.8,7
+English A Literature,1608009180,77.8,6
+Mathematics,1408007111,70.8,5
+English B,1408007107,81.6,6
+Visual Arts,1308006026,92.8,4
+Economics,1708110227,70.4,6
+Korean A Literature,1209005011,84.7,7
+Design Technology,1308006011,69.9,6
+Biology,1508008132,87.7,7
+Physics,1708010143,80.8,7
+English B,1708110277,31.4,3
+Economics,1408007102,73.1,6
+Geography,1408106138,38.1,3
+Mathematical Studies,1308106063,70.9,6
+Economics,1708110230,56.2,5
+Design Technology,1608109274,48.6,5
+English A Literature,1508008141,71.9,6
+English B,1508008132,83.8,6
+Mathematical Studies,1308106107,77.1,6
+English B,1708110227,84.4,6
+Chinese A Literature,1708110267,75.0,6
+English B,1508008139,60.7,5
+Physics,1708110278,56.2,5
+English B,1408007115,76.6,6
+Mathematics,1708110279,70.3,5
+Mathematics,1708010145,63.2,5
+Biology,1808012319,31.1,3
+History,1708110274,27.2,3
+Mathematics,1308106066,53.0,3
+Economics,1708010144,69.6,6
+English B,1408007101,83.8,6
+Chemistry,1508008141,50.3,4
+English B,1608109285,68.3,5
+Mathematics,1408007115,68.6,5
+Economics,1308106063,55.6,5
+Economics,1308006020,72.8,6
+Biology,1608109285,91.1,7
+Mathematics,1708110278,38.4,3
+Chemistry,1708010145,66.3,5
+English B,1608109274,65.2,5
+English B,1608009183,87.0,6
+Biology,1508008137,87.0,7
+Economics,1508008137,77.7,7
+Mathematical Studies,1308006012,66.6,5
+Chinese A Literature,1408106142,52.4,4
+Economics,1708110279,49.1,4
+Business & Management,1308006027,79.3,6
+Chemistry,1308006020,79.8,5
+Economics,1608009183,82.7,7
+Mathematics,1408106137,59.3,4
+Geography,1808012319,32.1,3
+Chinese A Literature,1508008141,59.4,4
+Physics,1508108184,50.5,4
+History,1402006002,65.3,6
+Korean A Literature,1608109285,87.6,7
+Business & Management,1608109285,87.1,7
+Biology,1408106142,45.2,4
+Design Technology,1808011314,49.7,4
+Biology,1508008139,44.5,4
+Visual Arts,1308006028,72.9,5
+Mathematics,1508008137,55.6,5
+Geography,1308006013,54.2,6
+English B,1408106137,48.5,4
+Mathematics,1308006020,72.4,5
+Chinese A Literature,1508008248,75.6,6
+Mathematics,1708010144,85.8,7
+Mathematics,1308006019,66.7,5
+English B,1808012319,49.3,5
+Mathematics,1608009181,81.6,6
+Business & Management,1109004143,72.2,6
+Mathematics,1408007107,38.0,3
+Chemistry,1308006013,55.4,4
+Visual Arts,1608109274,94.7,6
+Chinese A Literature,1408106136,59.4,4
+Design Technology,1109004006,28.7,3
+Chinese A Literature,1708110277,37.3,3
+Design Technology,1508008136,60.1,6
+Chemistry,1508008140,47.4,3
+Chinese A Literature,1408007108,67.8,5
+Economics,1608009181,72.2,6
+Mathematics,1402006002,63.4,5
+Economics,1308006016,75.5,7
+Economics,1308106075,69.7,6
+Geography,1308106075,56.6,6
+English B,1508008137,87.3,7
+English B,1408106136,72.3,5
+Mathematical Studies,1608009182,64.1,5
+English B,1308006020,88.6,7
+Biology,1308106107,56.6,5
+Chemistry,1308006027,72.1,6
+Chinese A Literature,1708110237,59.5,5
+Visual Arts,1608109234,98.4,7
+Mathematical Studies,1708110235,17.8,2
+Business & Management,1708110267,63.8,5
+English B,1209005011,81.1,6
+Chemistry,1209005009,80.5,6
+Mathematics,1508108184,55.2,4
+Geography,1708110222,35.0,3
+English B,1708110223,59.2,4
+Mathematics,1508008136,68.5,5
+Biology,1408106141,69.5,6
+History,1308106107,50.5,5
+Business & Management,1708010294,68.5,5
+Chinese A Literature,1608009181,83.4,6
+Visual Arts,1508008139,79.1,5
+Chinese A Literature,1308106073,57.5,5
+Mathematical Studies,1808011313,35.4,3
+Visual Arts,1308006012,83.7,3
+English B,1708010143,89.5,7
+Mathematical Studies,1708010294,32.1,3
+Biology,1109004143,69.1,6
+Chinese A Literature,1308006011,59.2,5
+Chemistry,1708110227,71.8,4
+Chemistry,1608009183,85.6,7
+Mathematical Studies,1608109238,53.9,4
+Business & Management,1608109234,75.6,6
+Chinese A Literature,1608109227,73.5,6
+Visual Arts,1708110277,34.8,3
+English B,1708010144,74.5,6
+Korean A Literature,1301005004,85.1,7
+Physics,1308006020,71.2,6
+Biology,1708110279,51.4,4
+Chinese A Literature,1408007111,70.0,6
+Biology,1503107007,57.5,5
+English B,1708110226,85.0,6
+English B,1308006016,89.1,7
+Chinese A Literature,1408007107,55.2,4
+English B,1708110276,75.3,6
+Geography,1808011314,36.9,3
+Geography,1608109231,51.7,5
+History,1308006016,59.4,5
+Mathematics,1408007101,87.5,7
+Biology,1608109231,62.5,5
+Chinese A Literature,1608109234,70.8,5
+Visual Arts,1408106140,92.7,7
+Biology,1708110230,73.2,6
+Mathematics,1308006027,72.8,5
+Geography,1608109296,9.2,1
+Mathematical Studies,1408106140,66.2,5
+Chemistry,1408007101,68.0,6
+English A Literature,1109004143,56.9,4
+Chemistry,1209005011,73.2,6
+English B,1708110235,64.6,5
+English B,1708110267,49.1,4
+English B,1608109239,72.1,5
+Biology,1308006028,65.2,5
+Mathematics,1708110227,93.3,7
+Mathematics,1301005004,85.8,7
+Mathematical Studies,1308006026,45.4,4
+Geography,1708110277,24.5,1
+Design Technology,1708110226,33.9,3
+Chemistry,1408007102,82.9,7
+Mathematics,1308006014,72.7,5
+English B,1508008248,79.5,6
+Mathematics,1608109285,71.2,5
+Theatre,1308106070,73.4,6
+Economics,1308106073,57.0,5
+Biology,1708010145,83.5,7
+Chinese A Literature,1608109241,61.7,4
+Chinese A Literature,1308006026,71.2,5
+Chinese A Literature,1308006019,67.5,6
+Economics,1402006002,82.8,7
+Biology,1708010294,38.0,3
+Chinese A Literature,1608109296,52.5,4
+Chemistry,1308106073,66.5,5
+Chinese A Literature,1308006028,65.8,6
+Mathematics,1708110276,43.9,3
+Chinese A Literature,1308006013,61.6,5
+Chemistry,1708110275,22.0,1
+English B,1308006027,71.8,5
+Chinese A Literature,1508008139,69.6,5
+English B,1708110283,60.1,5
+Design Technology,1808012319,29.0,2
+Chinese A Literature,1308106075,65.8,6
+Economics,1408007107,47.9,4
+Economics,1308006012,38.4,3
+Mathematical Studies,1308006011,59.8,4
+Biology,1308006026,34.8,3
+History,1608109274,37.3,4
+Business & Management,1508108186,77.3,6
+Physics,1209005009,73.9,6
+History,1408007108,18.6,3
+Mathematics,1408106136,61.7,4
+English B,1708110228,71.9,6
+Chinese A Literature,1708110274,68.5,5
+Chemistry,1408007115,84.3,6
+Physics,1708110227,78.6,7
+Chinese A Literature,1608009182,73.4,6
+Mathematics,1608109241,82.7,6
+English B,1408007102,76.9,6
+Biology,1408007107,72.1,6
+Economics,1109004006,26.3,2
+Chinese A Literature,1402006002,64.5,5
+Chinese A Literature,1708110226,70.1,5
+Business & Management,1308106070,67.6,5
+Design Technology,1808011313,32.3,3
+Physics,1708110223,70.8,6
+Mathematics,1508008132,79.4,6
+Mathematics,1308006013,77.2,6
+English B,1402006002,85.9,6
+English B,1308006011,82.0,6
+English B,1808011313,87.8,7
+English B,1608109227,66.9,5
+English B,1508108186,60.4,4
+Mathematical Studies,1408106142,62.6,5
+Visual Arts,1608009181,84.2,6
+Music,1308006011,53.8,4
+Mathematics,1708110234,72.0,5
+Chinese A Literature,1408007102,73.8,6
+Mathematics,1109004002,69.0,5
+Physics,1608109227,75.1,6
+Chinese A Literature,1608009183,74.9,6
+Chinese A Literature,1708110234,62.4,5
+English B,1508108190,55.7,4
+Mathematics,1708110237,58.6,4
+Chinese A Literature,1608109238,61.2,5
+Chinese A Literature,1708110283,56.4,5
+English B,1408007111,95.4,7
+Chinese A Literature,1608109239,77.3,6
+Geography,1808011313,43.3,3
+Design Technology,1708110235,7.4,1
+English B,1508008140,64.3,5
+Chemistry,1708110232,67.7,4
+Chinese A Literature,1408007115,59.6,5
+Economics,1408007115,65.0,6
+Mathematics,1708110267,55.3,4
+Biology,1308106075,80.6,7
+Mathematical Studies,1508108186,66.3,5
+English B,1408106143,70.4,5
+Theatre,1308006014,94.7,7
+Chinese A Literature,1508008140,56.6,4
+History,1308006013,62.3,6
+Geography,1508108184,63.2,6
+Economics,1408106140,54.0,5
+Economics,1608109285,83.4,7
+Business & Management,1508108190,47.8,4
+Visual Arts,1608009182,97.1,7
+English B,1608109241,55.8,4
+Chinese A Literature,1308006012,52.8,4
+Biology,1308006014,94.3,7
+Chemistry,1708010143,82.7,7
+Chinese A Literature,1508108186,64.8,5
+Physics,1708110232,80.0,7
+Geography,1708110275,7.9,1
+Economics,1708110276,30.4,3
+Chinese A Literature,1708110235,44.0,3
+Physics,1708110275,29.4,2
+Theatre,1508008141,74.8,6
+Mathematics,1708110274,58.6,4
+Geography,1708110226,42.5,5
+Physics,1608109239,63.2,5
+Mathematics,1708110222,63.8,4
+Business & Management,1308006028,72.4,6
+Chinese A Literature,1508008136,60.2,5
+Korean A Literature,1503107007,77.4,6
+Mathematics,1508108190,36.4,2
+Mathematics,1708110275,24.7,2
+Mathematical Studies,1608109274,45.7,4
+Business & Management,1408106136,82.0,7
+Mathematical Studies,1408106138,47.5,4
+Design Technology,1608109296,9.4,1
+Korean A Literature,1209005009,87.9,7
+Economics,1508108184,62.9,5
+Chinese A Literature,1708110232,62.5,5
+English B,1408106138,81.2,6
+Mathematics,1508008248,87.8,7
+Mathematics,1608009180,60.0,5
+Chemistry,1308106066,57.2,4
+Business & Management,1408106142,65.6,5
+Mathematics,1608009183,76.2,6
+Mathematical Studies,1109004006,21.4,2
+English B,1308106066,65.1,5
+Biology,1408007101,80.9,7
+Chemistry,1408007111,81.7,5
+English B,1408007108,48.9,4
+English B,1109004006,84.9,6
+Visual Arts,1508008140,42.5,1
+English B,1608109296,25.6,2
+Biology,1708110223,67.6,5
+Mathematics,1608109231,76.4,6
+Design Technology,1308006012,61.2,5
+English B,1308006012,77.0,6
+Geography,1708110278,30.3,2
+Physics,1209005011,43.8,4
+Chinese A Literature,1708110276,52.4,4
+Mathematics,1808011314,45.5,3
+Design Technology,1608109238,40.3,3
+Chinese A Literature,1308106070,58.5,5
+English B,1308006026,64.4,5
+English B,1308106075,72.0,5
+English B,1708110279,62.0,5
+Economics,1608009180,71.7,6
+History,1608109239,59.4,5
+Geography,1608109241,31.2,3
+Mathematics,1708010143,76.7,6
+Biology,1608009181,91.8,7
+Chinese A Literature,1708110278,61.9,5
+Economics,1503107007,59.5,5
+Economics,1508108186,60.4,5
+Physics,1408007111,69.0,6
+Mathematical Studies,1708110283,40.7,3
+Mathematics,1608109239,65.2,5
+Chemistry,1308006019,80.1,6
+English B,1209005009,79.4,6
+English B,1608109234,80.9,6
+Geography,1708110232,31.1,3
+History,1508108190,26.5,3
+Chemistry,1608109231,76.9,6
+Mathematical Studies,1408007108,31.5,3
+Chinese A Literature,1608109231,64.2,5
+Design Technology,1608009182,63.2,6
+Chinese A Literature,1408106138,58.6,5
+Biology,1708010144,86.5,7
+Design Technology,1708110274,25.5,2
+Mathematics,1308006028,64.4,4
+English B,1508008136,73.4,5
+Geography,1708110235,8.9,1
+Physics,1708110228,78.8,7
+Theatre,1708110279,75.7,6
+Mathematics,1708110226,73.6,5
+Mathematics,1608109296,3.8,1
+Mathematics,1308106070,47.6,3
+Chinese A Literature,1708110223,66.0,6
+Mathematics,1708110232,56.2,4
+Chinese A Literature,1808011313,46.0,3
+Chinese A Literature,1308006020,66.8,5
+Business & Management,1301005004,88.6,7
+English B,1608109238,55.0,4
+Geography,1708110276,19.4,3
+Visual Arts,1408106143,94.7,7
+English A Literature,1308006013,68.5,5
+English B,1708110237,66.0,5
+Chemistry,1708110230,63.1,5
+Chinese A Literature,1308106063,69.0,6
+English B,1503107007,52.5,4
+Mathematics,1408106141,59.4,4
+Mathematics,1408106143,52.1,4
+Business & Management,1508008136,71.3,6
+Chinese A Literature,1708110230,63.1,5
+Biology,1608009180,80.2,7
+Physics,1508008248,75.8,7
+Biology,1708110234,47.3,4
+Mathematics,1109004143,43.1,3
+English B,1508108184,62.0,5
+Mathematics,1708110230,44.9,3
+Physics,1308106073,64.9,5
+Mathematics,1708110228,68.3,5
+Chemistry,1608109227,78.1,5
+Geography,1708110237,76.5,6
+English B,1301005004,79.6,6
+Economics,1308106066,52.2,4
+Design Technology,1608009183,83.3,7
+History,1308006011,58.6,5
+Mathematics,1608109227,81.0,6
+Chemistry,1408007107,63.7,5
+Chinese A Literature,1508108190,53.4,4
+Chinese A Literature,1308106066,50.1,4
+Economics,1708110222,54.5,5
+Theatre,1708010294,69.4,5
+Visual Arts,1808011313,83.3,4
+Business & Management,1608109238,64.2,5
+English B,1308106070,68.5,5
+English A Literature,1708010294,56.5,4
+English B,1608009181,86.2,7
+Business & Management,1708010145,83.8,7
+Chinese A Literature,1608009180,71.2,6
+Economics,1708110283,24.6,2
+Mathematics,1508008140,47.1,3
+Mathematics,1308106073,43.6,3
+Chinese A Literature,1708010143,81.9,6
+Design Technology,1708110267,52.1,5
+Business & Management,1408106141,81.8,7
+Chinese A Literature,1508008132,65.2,5
+Mathematics,1408007102,82.6,6
+Geography,1209005011,80.2,7
+English B,1408106141,60.4,5
+Business & Management,1708110234,72.5,6
+English B,1408106140,56.1,4
+Mathematical Studies,1608109234,81.1,7
+English B,1708110232,57.1,4
+Geography,1508008248,64.0,6
+Chinese A Literature,1608109274,61.4,5
+Design Technology,1408106138,36.7,3
+Theatre,1308106063,87.8,7
+Mathematics,1308006016,82.0,6
+Chinese A Literature,1308006027,75.7,6
+Chemistry,1408106136,62.9,5
+Mathematics,1209005011,57.3,4
+Chinese A Literature,1708110275,48.5,4
+Design Technology,1708110276,26.9,2
+History,1508008137,62.7,5
+Economics,1109004002,71.8,6
+Music,1308106107,65.0,5
+Chinese A Literature,1508108184,73.4,6
+Design Technology,1608109234,75.5,7
+Business & Management,1308006026,60.4,5
+English B,1308106063,75.3,6
+Chinese A Literature,1109004006,38.2,3
+Physics,1408106140,51.6,4
+Geography,1608009182,57.6,5
+Mathematical Studies,1708110277,8.2,1
+English B,1708110275,63.2,5
+Business & Management,1508008132,85.7,7
+Design Technology,1308106063,57.4,5
+Biology,1508108186,57.7,5
+Visual Arts,1408007102,77.1,5
+Chinese A Literature,1308106107,63.6,5
+Physics,1608109241,42.2,3
+Korean A Literature,1708010144,80.2,6
+Theatre,1608109238,73.0,6
+Business & Management,1109004006,43.8,3
+English B,1808011314,72.0,6
+Design Technology,1708110222,57.0,5
+Biology,1301005004,88.5,7
+Chemistry,1708110278,43.1,2
+Biology,1408106143,71.2,6
+Biology,1109004002,84.4,7
+Design Technology,1408007108,31.5,3
+History,1708110237,57.1,5
+Physics,1608009180,72.6,6
+Chinese A Literature,1808011314,60.9,4
+Chinese A Literature,1308006016,68.0,5
+Business & Management,1408007101,74.5,6
+Visual Arts,1608109239,87.6,5
+History,1308006014,67.1,6
+Chemistry,1408106137,48.3,3
+Mathematics,1508008141,70.9,5
+English A Literature,1308006014,79.5,6
+Economics,1109004143,57.9,5
+Visual Arts,1708110226,62.2,2
+History,1508008141,72.2,6
+English B,1308106107,65.6,5
+Economics,1508008136,59.4,5
+Chinese A Literature,1708110228,69.5,5
+Korean A Literature,1708010145,82.6,7
+Chemistry,1708110228,71.2,5
+English B,1708010145,85.4,6
+Economics,1408106143,64.7,6
+Visual Arts,1408007108,72.2,4
+Chinese A Literature,1408106137,57.5,4
+English B,1308106073,50.6,4
+Mathematics,1209005009,81.3,6
+Physics,1508108190,27.9,2
+English B,1608109231,44.1,3
+Visual Arts,1708110267,83.8,6
+English B,1608009182,59.5,4
+Chemistry,1503107007,67.5,6
+Economics,1508008248,75.0,6
+Biology,1308106070,38.3,3
+Biology,1408106137,53.0,4
+English B,1708110274,55.5,4
+English B,1408106142,65.2,5
+Music,1109004002,67.5,5
+Visual Arts,1508008132,93.6,7
+Chinese A Literature,1308006014,71.5,6
+Economics,1708010143,79.6,7
+Chemistry,1708110234,68.5,5
+Chinese A Literature,1508008137,72.3,6
+English B,1708110278,66.7,5
+Physics,1402006002,66.3,6
+English B,1109004002,67.5,5
+Chinese A Literature,1408007101,63.3,5
+English B,1308006019,83.7,6
+Economics,1708110235,9.4,1
+Chinese A Literature,1408106141,75.3,6
+Economics,1408106137,54.5,5
+English B,1308006028,72.2,6
+History,1308106066,57.7,5
